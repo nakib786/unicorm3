@@ -3,7 +3,7 @@ import Link from 'next/link'
 
 // WhatsApp Configuration - Update with actual phone number
 const WHATSAPP_NUMBER = '12504860386' // +1 250-486-0386
-const WHATSAPP_MESSAGE = encodeURIComponent('Hello! I need cleaning services from Unicorn Janitorial.')
+const WHATSAPP_MESSAGE = encodeURIComponent('Hello! 👋 I\'m interested in your professional cleaning services. Could you please provide me with more information and a quote? Thank you!')
 const WHATSAPP_URL = `https://wa.me/${WHATSAPP_NUMBER}?text=${WHATSAPP_MESSAGE}`
 
 export default function Home() {
