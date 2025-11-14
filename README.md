@@ -35,7 +35,7 @@ Before deploying, update these important values:
 
 #### **WhatsApp Number** (`app/page.js`, line 4)
 ```javascript
-const WHATSAPP_NUMBER = '1234567890' // Replace with your actual WhatsApp number
+const WHATSAPP_NUMBER = '12504860386' // +1 250-486-0386
 ```
 
 #### **Google Analytics & GTM IDs** (`app/layout.js`)
